@@ -10,5 +10,7 @@ Although it's all client-sided, use at your own risk.
 Head to the [Issues](https://github.com/DxxxxY/DungeonX/issues) tab to report a bug or suggest an addition.
 ## Credits
 Base: OxydeWaveLength's BaseClient
+
 Design: CCBlueX's LiquidBounce
+
 Mods: Dankers' DSM & Biscuit's SBA

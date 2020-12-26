@@ -4,7 +4,7 @@ A minecraft client oriented towards Hypixel Skyblock Dungeons and optimized for 
 Head to the [Releases](https://github.com/DxxxxY/DungeonX/releases) tab to download the client jar file.
 ## Installing the client
 Double-click on the jar that you just downloaded to open the installer.
-## Mods
+## Mods (as of beta0.1)
 Puzzle solvers (Riddle, Trivia, Tic Tac Toe, Blaze, Creeper, Water)
 
 Stat bars (Health, Mana)
